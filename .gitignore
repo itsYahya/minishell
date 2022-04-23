@@ -1,9 +1,0 @@
-build/
-.cache/
-*.o
-minishell 
-tester
-.DS_Store
-minishell.dSYM/
-src/.DS_Store
-.vscode/
