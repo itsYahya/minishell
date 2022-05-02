@@ -1,5 +1,5 @@
 # Mini(but great) shell
-Minishell is the god level in the common core of 42. I am trying to make it perfect as possible.
+Minishell is the god level in the common core of 42. We are trying to make it perfect as possible.
 
 this makes it my favorite project til now.
 
